@@ -1,3 +1,5 @@
+package basic;
+
 public class Widening_type_casting {
     public static void main(String[] args) {
         int a=10;

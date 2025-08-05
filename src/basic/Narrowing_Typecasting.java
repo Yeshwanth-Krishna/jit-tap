@@ -1,3 +1,5 @@
+package basic;
+
 public class Narrowing_Typecasting {
     public static void main(String[] args) {
         double a=122.77;

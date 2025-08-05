@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.Scanner;
 
 public class mod2_program2 {
